@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TEAM GGJ.sln"
+    "dotnet.defaultSolution": "gamejam2024.sln"
 }
